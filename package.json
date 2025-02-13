@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.12.0"
+  }
+}
